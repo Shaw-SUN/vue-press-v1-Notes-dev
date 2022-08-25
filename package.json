@@ -1,16 +1,23 @@
 {
   "name": "vue-press-v1-notes-dev",
   "version": "1.0.0",
-  "description": "",
+  "description": "Shaw的个人笔记",
+  "keywords": [
+    "notes",
+    "vuepress-v1"
+  ],
+  "repository": "github:Shaw-SUN/vue-press-v1-Notes-dev",
+  "author": "Shaw",
+  "license": "GPL",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.7",
+    "@vuepress/plugin-medium-zoom": "^1.9.7",
+    "@vuepress/plugin-nprogress": "^1.9.7",
     "vuepress": "^1.9.7"
   },
   "dependencies": {

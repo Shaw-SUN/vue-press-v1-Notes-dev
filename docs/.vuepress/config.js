@@ -12,13 +12,13 @@ module.exports = {
     // 侧边栏
     sidebar: sidebarConfig,
     sidebarDepth: 2,
-    lastUpdated: '最后编辑',
-    repo: 'Shaw-SUN/vue-press-v1-Notes-dev',
-    docsDir: 'docs',
-    docsBranch: 'main',
+    lastUpdated: "最后编辑",
+    repo: "Shaw-SUN/vue-press-v1-Notes-dev",
+    docsDir: "docs",
+    docsBranch: "main",
     editLinks: true,
-    editLinkText: '在GitHub上编辑此页',
-    smoothScroll: true
+    editLinkText: "在GitHub上编辑此页",
+    smoothScroll: true,
   },
   // webpack 路由别名
   configureWebpack: {
@@ -28,4 +28,6 @@ module.exports = {
       },
     },
   },
+  // 官方插件
+  plugins: ["@vuepress/medium-zoom", "@vuepress/back-to-top", "@vuepress/nprogress"],
 }

@@ -29,9 +29,9 @@ module.exports = {
     },
   },
   // 官方插件
-  plugins: ["@vuepress/medium-zoom", "@vuepress/back-to-top", "@vuepress/nprogress"],
+  plugins: ["@vuepress/medium-zoom", "@vuepress/back-to-top", "@vuepress/nprogress", "vuepress-plugin-table-of-contents"],
   //markdown设置
   markdown: {
-    lineNumbers: true
-  }
+    lineNumbers: true,
+  },
 }

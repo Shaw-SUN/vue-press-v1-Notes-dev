@@ -30,4 +30,8 @@ module.exports = {
   },
   // 官方插件
   plugins: ["@vuepress/medium-zoom", "@vuepress/back-to-top", "@vuepress/nprogress"],
+  //markdown设置
+  markdown: {
+    lineNumbers: true
+  }
 }

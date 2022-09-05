@@ -24,7 +24,7 @@ module.exports = {
   configureWebpack: {
     resolve: {
       alias: {
-        "@img": "/_resources",
+        "@img": "/docs/_resources",
       },
     },
   },

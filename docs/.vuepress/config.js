@@ -15,7 +15,7 @@ module.exports = {
     lastUpdated: "最后编辑",
     repo: "Shaw-SUN/vue-press-v1-Notes-dev",
     docsDir: "docs",
-    docsBranch: "main",
+    docsBranch: "master",
     editLinks: true,
     editLinkText: "在GitHub上编辑此页",
     smoothScroll: true,

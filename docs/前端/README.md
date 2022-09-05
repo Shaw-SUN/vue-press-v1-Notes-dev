@@ -1,6 +1,7 @@
-## 前端学习路线
+# 前端学习路线
 
 - html5
 - css3
 - js
-- vue
+- vue2.x
+- ElementUI

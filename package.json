@@ -18,7 +18,8 @@
     "@vuepress/plugin-back-to-top": "^1.9.7",
     "@vuepress/plugin-medium-zoom": "^1.9.7",
     "@vuepress/plugin-nprogress": "^1.9.7",
-    "vuepress": "^1.9.7"
+    "vuepress": "^1.9.7",
+    "vuepress-plugin-table-of-contents": "^1.1.7"
   },
   "dependencies": {
     "directory-tree": "^3.3.0"

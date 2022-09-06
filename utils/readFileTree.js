@@ -32,7 +32,7 @@ function readFileTree() {
   fileObj = directoryTree(
     fileDir,
     {
-      exclude: /(.vuepress|_resources|README.md)/, // 排除目录
+      exclude: /(.vuepress|_resources|README.md|TODO.md|简历)/, // 排除目录
       extensions: /\.md$/, // 匹配文件名
       normalizePath: true, // 路径符转换(\ => /)
       attributes: ["type"], //可选字段

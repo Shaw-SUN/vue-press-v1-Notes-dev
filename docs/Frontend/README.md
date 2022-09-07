@@ -5,3 +5,5 @@
 - js
 - vue2.x
 - ElementUI
+- vue3.x
+- ts

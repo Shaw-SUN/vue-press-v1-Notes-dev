@@ -3,7 +3,7 @@ home: true
 heroText: Tools
 tagline: 开发工具及开发环境
 actionText: Start →
-actionLink: /工具/Git
+actionLink: /Tools/Git
 features:
 - title: Git
   details: 版本控制工具

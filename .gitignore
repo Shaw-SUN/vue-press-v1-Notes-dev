@@ -1,3 +1,10 @@
+# environment
 node_modules
 package-lock.json
+
+# output
 docs/.vuepress/dist
+
+# IDE
+.vscode
+.idea

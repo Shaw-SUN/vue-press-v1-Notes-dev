@@ -25,8 +25,8 @@
 - `git branch -u origin/分支名` 设置远程分支(简写)
 - `git push --set-upstream origin 分支名` 设置远程分支并推送
 
-- `git rebase` 重新排列commit
-  
+- `git rebase` 重新排列 commit
+
   - `git rebase --continue` 继续执行排列
 
 ## 设置
@@ -38,7 +38,7 @@ git config (--global) user.name "用户名"
 git config (--global) user.email "邮箱"
 ```
 
-### ssh密钥认证
+### ssh 密钥认证
 
 ### 代理
 

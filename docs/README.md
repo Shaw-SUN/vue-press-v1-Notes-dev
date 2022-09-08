@@ -1,16 +1,16 @@
 ---
 home: true
-heroImage: null
-heroText: Shaw'Note
-tagline: Just for Shaw
-actionText: Start →
-actionLink: /前端/
+heroImage: /hero.png
+heroText: Notes
+tagline: 👨‍💻👨🏻‍💻👨🏼‍💻👨🏽‍💻👨🏾‍💻👨🏿‍💻 => 👴👴🏻👴🏼👴🏽👴🏾👴🏿
+actionText: ☝>GET STRONGER<☝
+actionLink: /Frontend/
 features:
 - title: 简洁至上
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-- title: Vue驱动
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-- title: 高性能
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
+  details: 以 Markdown 为载体，专注于笔记内容；目录结构清晰，点击即达。
+- title: VuePress驱动
+  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时享受美观主题。
+- title: 专注写作
+  details: 为每个目录和文件自动生成侧边栏和目录，只需'新建文件夹'，即刻专注写作。
 footer: GPL Licensed | Copyright © Shaw 2022
 ---

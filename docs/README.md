@@ -1,9 +1,9 @@
 ---
 home: true
-heroImage: null
-heroText: Shaw'Note
-tagline: Just for Shaw
-actionText: Start ➜
+heroImage: /hero.png
+heroText: Notes
+tagline: 👨‍💻👨🏻‍💻👨🏼‍💻👨🏽‍💻👨🏾‍💻👨🏿‍💻 => 👴👴🏻👴🏼👴🏽👴🏾👴🏿
+actionText: ☝>GET STRONGER<☝
 actionLink: /Frontend/
 features:
 - title: 简洁至上

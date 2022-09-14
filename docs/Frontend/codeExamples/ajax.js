@@ -37,6 +37,4 @@ function myAjax2(method, url) {
   })
 }
 
-myAjax2("get","/data").then( 
-  alert(res)
-)
+myAjax2('get', '/data').then(alert(res))

@@ -9,9 +9,9 @@ module.exports = {
   themeConfig: {
     logo: null,
     // 顶部导航栏
-    nav: [],
+    // nav: [],
     // 代码仓库
-    repo: "Shaw-SUN/vue-press-v1-Notes-dev",
+    // repo: "Shaw-SUN/vue-press-v1-Notes-dev",
     // 侧边栏
     sidebar: sidebarConfig,
     sidebarDepth: 2,

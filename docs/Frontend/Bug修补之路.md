@@ -10,7 +10,7 @@
 
 ## 弹窗表单验证信息未清除
 
-1
+`this.$refs["dateForm"].clearValidate();`
 
 ## vue 上传组件数据绑定完成页面不及时刷新(vue 机制问题)
 

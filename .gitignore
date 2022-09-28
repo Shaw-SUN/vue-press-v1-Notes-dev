@@ -4,6 +4,7 @@ package-lock.json
 
 # output
 docs/.vuepress/dist
+print.md
 
 # IDE
 .vscode
